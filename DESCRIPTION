@@ -1,0 +1,14 @@
+Package: OwenHaskell
+Type: Package
+Title: Owen Functions
+Version: 0.1.0
+Author: Stéphane Laurent
+Maintainer: Stéphane Laurent <laurent_step@yahoo.fr>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL-3
+Suggests: testthat
+Encoding: UTF-8
+LazyData: true
+ByteCompile: true
+RoxygenNote: 6.0.1
